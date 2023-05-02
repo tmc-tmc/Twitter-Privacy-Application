@@ -13,5 +13,5 @@ The amount that is pulled can specified with each option, after which they are s
 - Numbers (UK Mobile)
 
 
-Sentiment analysis is then performed on each tweet, using UClassify with the IAB Taxonomy V2. The most likely category is returned to the user, along with the potential privacy flags, in the form of a pdf report. Additionally, a user can also email the report to themselves. 
+Sentiment analysis is then performed on each tweet, using UClassify with the IAB Taxonomy V3. The most likely category is returned to the user, along with the potential privacy flags, in the form of a pdf report. Additionally, a user can also email the report to themselves. 
 
